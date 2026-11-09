@@ -24,7 +24,7 @@ lista de juegos, y una herramienta para Windows que convierte tus imágenes y de
 | **Número de página** | Abajo a la izquierda | En la **esquina derecha** |
 | **← →** (cambiar página) | Mantiene la línea del cursor | Va al **primer juego de la página** |
 | **Pantalla "about"** | Créditos del fabricante | Créditos de la custom + **teclas de acceso rápido** |
-| **Carpetas** | Marcadas con `DIR` | En **amarillo** (los juegos en gris) |
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_vertical.png" width="280" alt="Navegador con carátula vertical"> <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_about.png" width="420" alt="Pantalla about"></p>
 
