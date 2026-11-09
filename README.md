@@ -24,7 +24,7 @@ jogos, e uma ferramenta para Windows que converte as suas imagens e gera tudo pr
 | **Número da página** | Embaixo, à esquerda | No **canto direito** |
 | **← →** (trocar página) | Mantém a linha do cursor | Vai para o **primeiro jogo da página** |
 | **Tela "about"** | Créditos do fabricante | Créditos da custom + **teclas de atalho** |
-| **Pastas** | Marcadas com `DIR` | Em **amarelo** (os jogos ficam em cinza) |
+
 
 | Navegador com capa vertical | Tela "about" |
 |---|---|
@@ -123,7 +123,6 @@ Depois disso, para mudar ou acrescentar capas, é só **gerar de novo** — não
   [Instagram](https://www.instagram.com/tavinho.games) ·
   [GitHub](https://github.com/Guga-Tavinho) ·
   [YouTube](https://www.youtube.com/@tavinho-games)
-- OS original do Super EverDrive: **Krikzz** (I. Golubovskiy).
 
 ---
 
