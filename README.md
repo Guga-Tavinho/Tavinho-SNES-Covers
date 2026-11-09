@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="400" alt="Navegador do Super EverDrive com capa"></p>
+<p align="center"><img src="images/video-preview-snes-capas.png" width="720" alt="Prévia do vídeo: capas no SNES — firmware custom"></p>
 
 ---
 
