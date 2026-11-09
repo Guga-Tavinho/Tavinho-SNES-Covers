@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Dq482eQA1ss">
-    <img src="images/video-preview-snes-capas.png" width="720" alt="Assistir ao vídeo: capas no SNES com firmware custom">
+    <img src="video.png" width="720" alt="Assistir ao vídeo: capas no SNES com firmware custom">
   </a><br>
   <a href="https://www.youtube.com/watch?v=Dq482eQA1ss"><strong>▶ Assistir no YouTube</strong></a>
 </p>
