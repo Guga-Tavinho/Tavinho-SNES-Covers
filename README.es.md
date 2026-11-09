@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-![Capa no navegador do Super EverDrive](docs/console_horizontal.png)
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="640" alt="Navegador del Super EverDrive con carátula"></p>
 
 ---
 
@@ -10,6 +10,8 @@
 
 Firmware custom para el **Super EverDrive (clon) de SNES** que muestra la **carátula de cada juego** junto a la
 lista de juegos, y una herramienta para Windows que convierte tus imágenes y deja todo listo para la tarjeta SD.
+
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/ferramenta.png" width="560" alt="Pantalla de la herramienta de carátulas"></p>
 
 ### Novedades respecto a la firmware original
 
@@ -23,6 +25,8 @@ lista de juegos, y una herramienta para Windows que convierte tus imágenes y de
 | **← →** (cambiar página) | Mantiene la línea del cursor | Va al **primer juego de la página** |
 | **Pantalla "about"** | Créditos del fabricante | Créditos de la custom + **teclas de acceso rápido** |
 | **Carpetas** | Marcadas con `DIR` | En **amarillo** (los juegos en gris) |
+
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_vertical.png" width="280" alt="Navegador con carátula vertical"> <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_about.png" width="420" alt="Pantalla about"></p>
 
 El resto de la consola funciona como en la firmware original: cargar juegos, partidas guardadas (SRAM), opciones,
 actualización del OS, etc.
@@ -124,3 +128,4 @@ firmware.
   [GitHub](https://github.com/Guga-Tavinho) ·
   [YouTube](https://www.youtube.com/@tavinho-games)
 - OS original del Super EverDrive: **Krikzz** (I. Golubovskiy).
+

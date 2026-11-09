@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-![Capa no navegador do Super EverDrive](docs/console_horizontal.png)
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="640" alt="Navegador do Super EverDrive com capa"></p>
 
 ---
 
@@ -11,7 +11,7 @@
 Firmware custom para o **Super EverDrive (clone) de SNES** que mostra a **capa de cada jogo** ao lado da lista de
 jogos, e uma ferramenta para Windows que converte as suas imagens e gera tudo pronto para o cartão SD.
 
-![A ferramenta](docs/ferramenta.png)
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/ferramenta.png" width="560" alt="Tela da ferramenta de capas"></p>
 
 ### O que tem de novo em relação à firmware original
 
@@ -28,7 +28,7 @@ jogos, e uma ferramenta para Windows que converte as suas imagens e gera tudo pr
 
 | Navegador com capa vertical | Tela "about" |
 |---|---|
-| ![](docs/console_vertical.png) | ![](docs/console_about.png) |
+| <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_vertical.png" width="280" alt="Navegador com capa vertical"> | <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_about.png" width="420" alt="Tela about"> |
 
 O resto do console funciona como na firmware original: carregar jogos, saves (SRAM), opções, update de OS etc.
 
@@ -126,3 +126,4 @@ Depois disso, para mudar ou acrescentar capas, é só **gerar de novo** — não
 - OS original do Super EverDrive: **Krikzz** (I. Golubovskiy).
 
 ---
+

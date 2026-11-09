@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-![Capa no navegador do Super EverDrive](docs/console_horizontal.png)
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="640" alt="Super EverDrive game browser with cover art"></p>
 
 ---
 
@@ -10,6 +10,8 @@
 
 Custom firmware for the **SNES Super EverDrive (clone)** that shows **each game's cover art** next to the game
 list, plus a Windows tool that converts your images and prepares everything for the SD card.
+
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/ferramenta.png" width="560" alt="Cover editor tool screen"></p>
 
 ### What's new compared to the original firmware
 
@@ -23,6 +25,8 @@ list, plus a Windows tool that converts your images and prepares everything for 
 | **← →** (change page) | Keeps the cursor row | Jumps to the **first game of the page** |
 | **About screen** | Manufacturer credits | Custom firmware credits + **shortcut keys** |
 | **Folders** | Marked with `DIR` | Shown in **yellow** (games are gray) |
+
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_vertical.png" width="280" alt="Browser with vertical cover"> <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_about.png" width="420" alt="About screen"></p>
 
 Everything else works like the original firmware: loading games, saves (SRAM), options, OS update, etc.
 
@@ -123,3 +127,4 @@ After that, to change or add covers, just **generate again** — there's no need
 - Original Super EverDrive OS: **Krikzz** (I. Golubovskiy).
 
 ---
+
