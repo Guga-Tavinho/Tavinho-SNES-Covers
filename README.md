@@ -2,7 +2,16 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-<p align="center"><img src="video.png" width="720" alt="Prévia do vídeo: capas no SNES — firmware custom"></p>
+### 🎬 Vídeo de demonstração
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dq482eQA1ss">
+    <img src="images/video-preview-snes-capas.png" width="720" alt="Assistir ao vídeo: capas no SNES com firmware custom">
+  </a><br>
+  <a href="https://www.youtube.com/watch?v=Dq482eQA1ss"><strong>▶ Assistir no YouTube</strong></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/ferramenta.png" width="560" alt="Tela da ferramenta de capas"></p>
 
 ---
 
