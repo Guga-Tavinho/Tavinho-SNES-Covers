@@ -10,8 +10,6 @@
   </a><br>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/ferramenta.png" width="560" alt="Tela da ferramenta de capas"></p>
-
 ---
 
 ## 🇧🇷 Português
