@@ -24,7 +24,7 @@ list, plus a Windows tool that converts your images and prepares everything for 
 | **Page number** | Bottom left | **Bottom right** |
 | **← →** (change page) | Keeps the cursor row | Jumps to the **first game of the page** |
 | **About screen** | Manufacturer credits | Custom firmware credits + **shortcut keys** |
-| **Folders** | Marked with `DIR` | Shown in **yellow** (games are gray) |
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_vertical.png" width="280" alt="Browser with vertical cover"> <img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_about.png" width="420" alt="About screen"></p>
 
