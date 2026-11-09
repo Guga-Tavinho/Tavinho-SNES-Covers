@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="640" alt="Navegador del Super EverDrive con carátula"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Guga-Tavinho/Tavinho-SNES-Covers/main/console_horizontal.png" width="400" alt="Navegador del Super EverDrive con carátula"></p>
 
 ---
 
