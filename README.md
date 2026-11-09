@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-<p align="center"><img src="images/video-preview-snes-capas.png" width="720" alt="Prévia do vídeo: capas no SNES — firmware custom"></p>
+<p align="center"><img src="video.png" width="720" alt="Prévia do vídeo: capas no SNES — firmware custom"></p>
 
 ---
 
